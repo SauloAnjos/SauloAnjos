@@ -8,7 +8,10 @@
 
 
 #### Sobre mim:
-👨‍💻 Formado em Redes de Computadores e Pós-graduado em Segurança em Redes e Sistemas.
+- 👨‍💻 Formado em Redes de Computadores e Pós-graduado em Segurança em Redes e Sistemas.
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Software, atualmente estou cursando o 4° semestre.
+- 🎯 Interesse: Java, C#, Node.JS, React, React Native e cultura DevOps.
+- 🎮 Gosto de jogar vídeo game, boardgames e RPG.
 
 
 
