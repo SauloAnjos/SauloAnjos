@@ -34,10 +34,15 @@
 <hr>
 <div align="center">
 <a href="https://www.linkedin.com/in/shaa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="saulo.anjos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23575757.svg?&style=flat-square&logo=gmail&logoColor=white" alt="GMail"></a>
+<a href="mailto:saulo.anjos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23575757.svg?&style=flat-square&logo=gmail&logoColor=white" alt="GMail"></a>
 <a href="https://www.instagram.com/Saulo_Anjos" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/saulo.anjos/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/Saulo_Anjos" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SauloAnjos)
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SauloAnjos)
+
+
+
+
+![Snake animation](https://github.com/SauloAnjos/rafaballerini/blob/output/github-contribution-grid-snake.svg)
