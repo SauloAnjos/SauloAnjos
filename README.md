@@ -1,8 +1,8 @@
 ## Olá Mundo! Eu sou o Saulo Henrique!
  <div>
   <a href="https://github.com/SauloAnjos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SauloAnjos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloAnjos&layout=compact&langs_count=9&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SauloAnjos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloAnjos&layout=compact&langs_count=9&theme=dark"/>
 </div>
 
 
@@ -41,7 +41,3 @@
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SauloAnjos)
-
-
-
-![Snake animation](https://github.com/SauloAnjos/SauloAnjos/blob/output/github-contribution-grid-snake.svg)
